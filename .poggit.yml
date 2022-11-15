@@ -1,0 +1,6 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/ShadowDevLEAK/AntiXray-Free
+build-by-default: true
+branches:
+- main
+projects: []
+...
